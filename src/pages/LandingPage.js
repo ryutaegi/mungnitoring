@@ -13,10 +13,10 @@ export default function LandingPage() {
       </div>
 
       <h1 className="text-[#191b23] text-4xl font-bold mb-2 text-center break-keep">
-        PPCF 애견유치원
+        AI 기반 실시간 모니터링 시스템
       </h1>
       <p className="text-[#737782] text-base mb-16 text-center tracking-wide break-keep">
-        AI 기반 실시간 모니터링 시스템
+        {/* AI 기반 실시간 모니터링 시스템 */}
       </p>
 
       {/* 입장 카드 */}
