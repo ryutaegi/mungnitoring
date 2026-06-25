@@ -83,7 +83,7 @@ export default function GuardianPage() {
                 </div>
               )}
             </div>
-            <p className="px-2 text-[#424751] text-base leading-6 tracking-tight">
+            <p className="px-2 text-[#424751] text-base leading-6 tracking-tight break-keep">
               <span>✨ </span>
               <span className="font-medium">봉지가 신나게 노는 모습을 숏클립으로 확인해 보세요!</span>
             </p>
@@ -123,7 +123,7 @@ export default function GuardianPage() {
               <span className="text-base">🤖</span>
               <span className="text-[#1e2a44] text-base font-semibold tracking-tight">봉지의 하루 AI 리포트</span>
             </div>
-            <p className="text-[#424751] text-base leading-[26px] tracking-tight">
+            <p className="text-[#424751] text-base leading-[26px] tracking-tight break-keep">
               오늘은 활동량이 아주 많았습니다. 오후에 친구들과 장난치다 살짝 흥분하는 모습이 감지되었지만, 부드러운 클래식 음악을 듣고 금세 안정을 찾았습니다. 밥도 잘 먹고 낮잠도 잘 잤으며, 전반적으로 평온하고 건강한 하루를 보냈습니다.
             </p>
           </div>

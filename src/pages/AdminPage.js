@@ -69,12 +69,12 @@ export default function AdminPage() {
 
         {/* 수평 내비 */}
         <nav className="flex items-center gap-6">
-          <button className="relative text-[#4885ff] text-base font-bold pb-1 border-b-2 border-[#4885ff]">
+          <button className="relative text-[#4885ff] text-base font-bold pb-1 border-b-2 border-[#4885ff] break-keep">
             실시간 모니터링
           </button>
-          <button className="text-[#424751] text-base font-medium hover:text-[#4885ff] transition-colors">활동 기록</button>
-          <button className="text-[#424751] text-base font-medium hover:text-[#4885ff] transition-colors">강아지 관리</button>
-          <button className="text-[#424751] text-base font-medium hover:text-[#4885ff] transition-colors">등하원 현황</button>
+          <button className="text-[#424751] text-base font-medium hover:text-[#4885ff] transition-colors break-keep">활동 기록</button>
+          <button className="text-[#424751] text-base font-medium hover:text-[#4885ff] transition-colors break-keep">강아지 관리</button>
+          <button className="text-[#424751] text-base font-medium hover:text-[#4885ff] transition-colors break-keep">등하원 현황</button>
         </nav>
 
         {/* 우측 액션 */}
@@ -86,7 +86,7 @@ export default function AdminPage() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#10b981] opacity-75" />
               <span className="relative inline-flex rounded-full h-3 w-3 bg-[#059669]" />
             </span>
-            <span className="text-[#31a24c] text-sm font-semibold tracking-wide">AI 모니터링 작동 중</span>
+            <span className="text-[#31a24c] text-sm font-semibold tracking-wide break-keep">AI 모니터링 작동 중</span>
           </div>
           <div className="flex items-center gap-1">
             <button className="p-2 rounded-full hover:bg-gray-100 transition-colors">
@@ -185,10 +185,10 @@ export default function AdminPage() {
                       </div>
                     ) : item.labelColor === '#191b23' ? (
                       <div className="bg-white border border-[#e5e5e5] rounded-xl p-3 shadow-sm">
-                        <span className="text-[#191b23] text-sm font-semibold">{item.label}</span>
+                        <span className="text-[#191b23] text-sm font-semibold break-keep">{item.label}</span>
                       </div>
                     ) : (
-                      <span className="text-[#5f5e5e] text-sm font-semibold px-1">{item.label}</span>
+                      <span className="text-[#5f5e5e] text-sm font-semibold px-1 break-keep">{item.label}</span>
                     )}
                   </div>
                 </div>
