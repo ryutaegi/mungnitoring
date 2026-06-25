@@ -138,8 +138,8 @@ export default function AdminPage() {
           )}
         </div>
 
-        {/* 우측 15% - 컨트롤 & 로그 */}
-        <div className="w-44 flex flex-col gap-8 flex-shrink-0">
+        {/* 우측 컨트롤 & 로그 */}
+        <div className="w-72 flex flex-col gap-8 flex-shrink-0">
 
           {/* 버튼 2개 */}
           <div className="flex flex-col gap-4">
