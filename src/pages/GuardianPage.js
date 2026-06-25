@@ -151,7 +151,7 @@ export default function GuardianPage() {
                 <video
                   ref={videoRef}
                   className="w-full aspect-video object-cover"
-                  src="/보호자영상.MP4"
+                  src="/guardian-video.mp4"
                   loop
                   playsInline
                 />

@@ -123,7 +123,7 @@ export default function AdminPage() {
             {/* 영상 */}
             <video
               className="absolute inset-0 w-full h-full object-cover"
-              src="/관리자영상.mov"
+              src="/admin-video.mov"
               autoPlay
               loop
               muted

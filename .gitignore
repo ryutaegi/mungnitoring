@@ -6,11 +6,13 @@ __pycache__/
 # Model weights
 *.pt
 
-# Test videos
+# Test videos (except public/ demo videos)
 *.MP4
 *.mp4
 *.avi
 *.mov
+!public/guardian-video.mp4
+!public/admin-video.mov
 
 # Registry data
 dog_registry.pkl
