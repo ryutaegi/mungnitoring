@@ -1,0 +1,45 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="70" height="70" fill="#CEE0FF"/>
+<g id="&#235;&#179;&#180;&#237;&#152;&#184;&#236;&#158;&#144;">
+<path d="M-1187.33 -440.743C-1187.33 -443.536 -1185.07 -445.8 -1182.28 -445.8H2833.61C2836.4 -445.8 2838.67 -443.536 2838.67 -440.743V765.143C2838.67 767.936 2836.4 770.2 2833.61 770.2H-1182.28C-1185.07 770.2 -1187.33 767.936 -1187.33 765.143V-440.743Z" fill="white"/>
+<path d="M-1182.28 -445.8V-443.271H2833.61V-445.8V-448.329H-1182.28V-445.8ZM2838.67 -440.743H2836.14V765.143H2838.67H2841.2V-440.743H2838.67ZM2833.61 770.2V767.671H-1182.28V770.2V772.729H2833.61V770.2ZM-1187.33 765.143H-1184.8V-440.743H-1187.33H-1189.86V765.143H-1187.33ZM-1182.28 770.2V767.671C-1183.67 767.671 -1184.8 766.539 -1184.8 765.143H-1187.33H-1189.86C-1189.86 769.332 -1186.47 772.729 -1182.28 772.729V770.2ZM2838.67 765.143H2836.14C2836.14 766.539 2835.01 767.671 2833.61 767.671V770.2V772.729C2837.8 772.729 2841.2 769.332 2841.2 765.143H2838.67ZM2833.61 -445.8V-443.271C2835.01 -443.271 2836.14 -442.139 2836.14 -440.743H2838.67H2841.2C2841.2 -444.932 2837.8 -448.329 2833.61 -448.329V-445.8ZM-1182.28 -445.8V-448.329C-1186.47 -448.329 -1189.86 -444.932 -1189.86 -440.743H-1187.33H-1184.8C-1184.8 -442.139 -1183.67 -443.271 -1182.28 -443.271V-445.8Z" fill="black" fill-opacity="0.1"/>
+<g id="Html &#226;&#134;&#146; Body">
+<rect width="1280" height="1024" transform="translate(-963.333 -349.8)" fill="white"/>
+<rect width="1280" height="1024" transform="translate(-963.333 -349.8)" fill="#111318"/>
+<g id="Main Dashboard Area">
+<rect width="1024" height="1024" transform="translate(-707.333 -349.8)" fill="#111318"/>
+<g id="Dashboard Grid Layout">
+<g id="Right Column: Timeline &#38; CTA (4 columns)">
+<g id="Today&#39;s Activity Timeline">
+<rect x="-22" y="-174.8" width="298.667" height="667" rx="16" fill="#1E1F25"/>
+<rect x="-21.5" y="-174.3" width="297.667" height="666" rx="15.5" stroke="#424751" stroke-opacity="0.3"/>
+<g id="Timeline List">
+<g id="Item 2: Outdoor Play">
+<g id="Background+Border+Shadow" filter="url(#filter0_d_0_1)">
+<rect x="15" y="15" width="40" height="40" rx="20" fill="#7BA7F5" shape-rendering="crispEdges"/>
+<rect x="15.5" y="15.5" width="39" height="39" rx="19.5" stroke="#ABC7FF" stroke-opacity="0.3" shape-rendering="crispEdges"/>
+<g id="Container">
+<path id="Icon" d="M36.95 45H33.05V41H26L30 35H28L35 25L42 35H40L44 41H36.95V45Z" fill="#003B7B"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="0" y="0" width="70" height="70" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.482353 0 0 0 0 0.654902 0 0 0 0 0.960784 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>

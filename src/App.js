@@ -1,12 +1,18 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import LandingPage from './pages/LandingPage';
+import AdminPage from './pages/AdminPage';
+import GuardianPage from './pages/GuardianPage';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>멍니터링 준비중</p>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+        <Route path="/admin" element={<AdminPage />} />
+        <Route path="/guardian" element={<GuardianPage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

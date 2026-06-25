@@ -1,0 +1,32 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#CEE0FF"/>
+<g id="&#235;&#179;&#180;&#237;&#152;&#184;&#236;&#158;&#144;">
+<path d="M-871 -1005.79C-871 -1008.58 -868.736 -1010.85 -865.943 -1010.85H3149.94C3152.74 -1010.85 3155 -1008.58 3155 -1005.79V200.096C3155 202.889 3152.74 205.153 3149.94 205.153H-865.943C-868.736 205.153 -871 202.889 -871 200.096V-1005.79Z" fill="white"/>
+<path d="M-865.943 -1010.85V-1008.32H3149.94V-1010.85V-1013.38H-865.943V-1010.85ZM3155 -1005.79H3152.47V200.096H3155H3157.53V-1005.79H3155ZM3149.94 205.153V202.624H-865.943V205.153V207.682H3149.94V205.153ZM-871 200.096H-868.471V-1005.79H-871H-873.529V200.096H-871ZM-865.943 205.153V202.624C-867.339 202.624 -868.471 201.492 -868.471 200.096H-871H-873.529C-873.529 204.285 -870.132 207.682 -865.943 207.682V205.153ZM3155 200.096H3152.47C3152.47 201.492 3151.34 202.624 3149.94 202.624V205.153V207.682C3154.13 207.682 3157.53 204.285 3157.53 200.096H3155ZM3149.94 -1010.85V-1008.32C3151.34 -1008.32 3152.47 -1007.19 3152.47 -1005.79H3155H3157.53C3157.53 -1009.98 3154.13 -1013.38 3149.94 -1013.38V-1010.85ZM-865.943 -1010.85V-1013.38C-870.132 -1013.38 -873.529 -1009.98 -873.529 -1005.79H-871H-868.471C-868.471 -1007.19 -867.339 -1008.32 -865.943 -1008.32V-1010.85Z" fill="black" fill-opacity="0.1"/>
+<g id="Html &#226;&#134;&#146; Body">
+<rect width="1280" height="1024" transform="translate(-647 -914.847)" fill="white"/>
+<rect width="1280" height="1024" transform="translate(-647 -914.847)" fill="#111318"/>
+<g id="Main Dashboard Area">
+<rect width="1024" height="1024" transform="translate(-391 -914.847)" fill="#111318"/>
+<g id="Button - Persistent CTA" filter="url(#filter0_d_0_1)">
+<rect x="-351" y="-38.8" width="944" height="97.59" rx="16" fill="#7BA7F5" shape-rendering="crispEdges"/>
+<g id="Container">
+<path id="Icon" d="M0 20V2C0 1.45 0.195833 0.979167 0.5875 0.5875C0.979167 0.195833 1.45 0 2 0H18C18.55 0 19.0208 0.195833 19.4125 0.5875C19.8042 0.979167 20 1.45 20 2V14C20 14.55 19.8042 15.0208 19.4125 15.4125C19.0208 15.8042 18.55 16 18 16H4L0 20ZM4 12H12V10H4V12ZM4 9H16V7H4V9ZM4 6H16V4H4V6Z" fill="#003B7B"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-371" y="-54.8" width="984" height="137.59" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.482353 0 0 0 0 0.654902 0 0 0 0 0.960784 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
