@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+
+# Test videos
+*.MP4
+*.mp4
+*.avi
+*.mov
+
+# Registry data
+dog_registry.pkl
+
+# Dog images (user-specific)
+dogs/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
